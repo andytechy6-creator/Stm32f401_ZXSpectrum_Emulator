@@ -1,0 +1,8 @@
+../Core/Src/spectrum_core.c:17:6:spectrum_init	1
+../Core/Src/spectrum_core.c:35:6:spectrum_reset	1
+../Core/Src/spectrum_core.c:40:9:spectrum_read	2
+../Core/Src/spectrum_core.c:49:6:spectrum_write	2
+../Core/Src/spectrum_core.c:58:9:spectrum_in	1
+../Core/Src/spectrum_core.c:70:6:spectrum_out	2
+../Core/Src/spectrum_core.c:79:6:spectrum_port_fe_write	1
+../Core/Src/spectrum_core.c:87:9:spectrum_port_fe_read	1

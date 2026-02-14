@@ -1,0 +1,8 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:409:22:LL_AHB1_GRP1_EnableClock	24	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1116:22:LL_TIM_EnableCounter	16	static
+../Core/Src/vga.c:42:17:pack_pixel	32	static
+../Core/Src/vga.c:51:6:vga_pack_line	24	static
+../Core/Src/vga.c:57:6:vga_pack_line_to	24	static
+../Core/Src/vga.c:67:6:vga_init	32	static
+../Core/Src/vga.c:96:6:vga_timing_init	4	static
+../Core/Src/vga.c:106:6:vga_timing_start	8	static

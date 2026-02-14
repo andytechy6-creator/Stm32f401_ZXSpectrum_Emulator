@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:939:22:LL_GPIO_TogglePin	1
+../Core/Src/z80.c:15:6:z80_reset	1
+../Core/Src/z80.c:26:23:READ	1
+../Core/Src/z80.c:27:24:WRITE	1
+../Core/Src/z80.c:29:6:z80_step	50

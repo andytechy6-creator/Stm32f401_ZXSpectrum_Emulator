@@ -1,0 +1,6 @@
+../Core/Src/vga.c:42:17:pack_pixel	0	static
+../Core/Src/vga.c:51:6:vga_pack_line	8	static
+../Core/Src/vga.c:57:6:vga_pack_line_to	8	static
+../Core/Src/vga.c:67:6:vga_init	40	static
+../Core/Src/vga.c:96:6:vga_timing_init	0	static
+../Core/Src/vga.c:106:6:vga_timing_start	0	static

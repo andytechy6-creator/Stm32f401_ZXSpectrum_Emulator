@@ -1,0 +1,9 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:939:22:LL_GPIO_TogglePin	24	static
+../Core/Src/spectrum_core.c:17:6:spectrum_init	16	static
+../Core/Src/spectrum_core.c:35:6:spectrum_reset	8	static
+../Core/Src/spectrum_core.c:40:9:spectrum_read	16	static
+../Core/Src/spectrum_core.c:49:6:spectrum_write	16	static
+../Core/Src/spectrum_core.c:58:9:spectrum_in	16	static
+../Core/Src/spectrum_core.c:70:6:spectrum_out	16	static
+../Core/Src/spectrum_core.c:79:6:spectrum_port_fe_write	16	static
+../Core/Src/spectrum_core.c:87:9:spectrum_port_fe_read	4	static

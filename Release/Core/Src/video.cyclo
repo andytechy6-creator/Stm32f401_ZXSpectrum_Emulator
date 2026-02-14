@@ -1,0 +1,14 @@
+../Core/Src/video.c:228:13:fill_solid	2
+../Core/Src/video.c:156:6:sync_to_vsync	2
+../Core/Src/video.c:165:6:vga_start_dma	2
+../Core/Src/video.c:191:6:ReArmDMA	1
+../Core/Src/video.c:200:6:vga_init_border_line	1
+../Core/Src/video.c:211:6:render_line_into	3
+../Core/Src/video.c:237:6:fill_border	1
+../Core/Src/video.c:244:6:video_recompute_vertical_window	1
+../Core/Src/video.c:389:6:draw_char_line	5
+../Core/Src/video.c:426:6:draw_text_line	2
+../Core/Src/video.c:436:6:swapBuffers	2
+../Core/Src/video.c:447:6:draw_debug_osd_line	10
+../Core/Src/video.c:314:6:video_line_step	10
+../Core/Src/video.c:496:6:video_update_osd_values	1
